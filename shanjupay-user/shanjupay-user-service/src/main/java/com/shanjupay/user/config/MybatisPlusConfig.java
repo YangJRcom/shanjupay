@@ -19,6 +19,7 @@ public class MybatisPlusConfig {
 
 	/**
 	 * 分页插件，自动识别数据库类型
+	 * 1111
 	 */
 	@Bean
 	public PaginationInterceptor paginationInterceptor() {
