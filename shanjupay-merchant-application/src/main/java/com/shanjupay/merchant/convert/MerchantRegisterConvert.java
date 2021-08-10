@@ -17,6 +17,7 @@ public interface MerchantRegisterConvert {
     //将dto转成vo
     MerchantRegisterVO dto2vo(MerchantDTO merchantDTO);
     //将vo转成dto
+    //将vo转成dto
     MerchantDTO vo2dto(MerchantRegisterVO merchantRegisterVO);
 
 }
